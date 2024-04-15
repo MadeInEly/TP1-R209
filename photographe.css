@@ -4,14 +4,9 @@ nav a{
  }
  nav {
     position: fixed;
-    top: 0;
-    left: 0;
     width: 10%;
     height: 100vh;
-    background-image: url(./img/fond_ecran.jpg);
     display: flex;
     flex-direction: column;
-    text-align: center;
     padding: 5% 1.25em 1.25em;
-    
  } 
