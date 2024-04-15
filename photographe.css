@@ -4,5 +4,8 @@ nav a{
  }
  nav {
     position: fixed;
+    display: flex;
     background-color: #000;
- } 
+    justify-content: space-around;
+    align-items: center;
+   } 
