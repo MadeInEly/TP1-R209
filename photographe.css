@@ -4,7 +4,19 @@ nav {
    background: #000;
    justify-content: space-around;
    align-items: center;
+   top: 0px;
+   height: 100px;
+   width: 317px;
 } 
 .explication {
    padding-top: 150px;
+   top: 0px;
+   height: auto;
+   width: auto;
+}
+
+@media all and (max-width:768px) {
+   header {
+      flex-direction: column-reverse;
+   }
 }
