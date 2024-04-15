@@ -1,7 +1,7 @@
 nav {
    position: fixed;
    display: flex;
-   background: #928a8a;
+   background: #fdfdfd;
    justify-content: space-around;
    align-items: center;
    top: 0px;
@@ -9,7 +9,7 @@ nav {
    width: 100%;
 } 
 nav p{
-   color: aliceblue;
+   color: rgb(23, 26, 29);
 }
 .explication {
    padding-top: auto;
