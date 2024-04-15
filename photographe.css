@@ -1,12 +1,8 @@
 nav a{
     border-bottom:solid #000;
-    margin-bottom:10%;
+    margin-bottom:0%;
  }
  nav {
     position: fixed;
-    width: 10%;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    padding: 5% 1.25em 1.25em;
+    background-color: #000;
  } 
