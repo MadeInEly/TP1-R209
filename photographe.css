@@ -1,11 +1,10 @@
-nav a{
-    border-bottom:solid #000;
-    margin-bottom:0%;
- }
- nav {
-    position: fixed;
-    display: flex;
-    background-color: #000;
-    justify-content: space-around;
-    align-items: center;
-   } 
+nav {
+   position: fixed;
+   display: flex;
+   background: #000;
+   justify-content: space-around;
+   align-items: center;
+} 
+.explication {
+   padding-top: 150px;
+}
