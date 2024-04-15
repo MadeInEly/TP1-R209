@@ -6,11 +6,10 @@ nav {
    align-items: center;
    top: 0px;
    height: 100px;
-   width: 317px;
+   width: 100%;
 } 
 .explication {
-   padding-top: 150px;
-   top: 0px;
+   padding-top: auto;
    height: auto;
    width: auto;
 }
