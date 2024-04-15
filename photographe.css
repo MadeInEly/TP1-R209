@@ -8,6 +8,9 @@ nav {
    height: 100px;
    width: 100%;
 } 
+nav p{
+   color: aliceblue;
+}
 .explication {
    padding-top: auto;
    height: auto;
